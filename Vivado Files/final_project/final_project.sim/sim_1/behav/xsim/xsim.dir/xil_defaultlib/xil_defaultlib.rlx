@@ -1,0 +1,15 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+A:/VivadoProjects/final_project/final_project.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+A:/VivadoProjects/final_project/final_project.srcs/sim_1/new/cpu.sv,1625591178,systemVerilog,,,,cpu,,uvm,,,,,,
+A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/alu.sv,1625778340,systemVerilog,,A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/control.sv,,alu,,uvm,,,,,,
+A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/control.sv,1625778988,systemVerilog,,A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/datamem.sv,,control,,uvm,,,,,,
+A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/datamem.sv,1625695335,systemVerilog,,A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/decoder.sv,,datamem,,uvm,,,,,,
+A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/decoder.sv,1625589844,systemVerilog,,A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/eight_bit_cpu.sv,,decoder,,uvm,,,,,,
+A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/eight_bit_cpu.sv,1625591422,systemVerilog,,A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/imem.sv,,eight_bit_cpu,,uvm,,,,,,
+A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/imem.sv,1625589807,systemVerilog,,A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/mux_2_1.sv,,imem,,uvm,,,,,,
+A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/mux_2_1.sv,1625589438,systemVerilog,,A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/mux_2_1_3bit.sv,,mux_2_1,,uvm,,,,,,
+A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/mux_2_1_3bit.sv,1625590476,systemVerilog,,A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/reg_file.sv,,mux_2_1_3bit,,uvm,,,,,,
+A:/VivadoProjects/final_project/final_project.srcs/sources_1/new/reg_file.sv,1625589746,systemVerilog,,A:/VivadoProjects/final_project/final_project.srcs/sim_1/new/cpu.sv,,regfile,,uvm,,,,,,

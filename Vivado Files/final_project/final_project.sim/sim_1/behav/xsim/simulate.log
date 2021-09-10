@@ -1,0 +1,14 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+WARNING: Too many words specified in data file memfile.dat
+inst=0100011000001110
+inst=0100011000000110
+inst=0000010001000000
+inst=xxxxxxxxxxxxxxxx
+inst=xxxxxxxxxxxxxxxx
+inst=xxxxxxxxxxxxxxxx
+inst=xxxxxxxxxxxxxxxx
+inst=xxxxxxxxxxxxxxxx
+inst=xxxxxxxxxxxxxxxx
+inst=xxxxxxxxxxxxxxxx
+$finish called at time : 700 ns : File "A:/VivadoProjects/final_project/final_project.srcs/sim_1/new/cpu.sv" Line 34

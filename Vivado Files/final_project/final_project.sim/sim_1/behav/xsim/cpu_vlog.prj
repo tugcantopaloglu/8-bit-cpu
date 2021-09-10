@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../final_project.srcs/sources_1/new/alu.sv" \
+"../../../../final_project.srcs/sources_1/new/control.sv" \
+"../../../../final_project.srcs/sources_1/new/datamem.sv" \
+"../../../../final_project.srcs/sources_1/new/decoder.sv" \
+"../../../../final_project.srcs/sources_1/new/eight_bit_cpu.sv" \
+"../../../../final_project.srcs/sources_1/new/imem.sv" \
+"../../../../final_project.srcs/sources_1/new/mux_2_1.sv" \
+"../../../../final_project.srcs/sources_1/new/mux_2_1_3bit.sv" \
+"../../../../final_project.srcs/sources_1/new/reg_file.sv" \
+"../../../../final_project.srcs/sim_1/new/cpu.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
