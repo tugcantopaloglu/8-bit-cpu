@@ -1,3 +1,4 @@
+
 # 8 Bit CPU
 8 Bit Processor with system verilog.  
 Instruction Table:  
@@ -5,5 +6,5 @@ Instruction Table:
 Instruction Format:  
 ![Instruction Format ](https://user-images.githubusercontent.com/53763911/132833598-f7867326-dcdc-4b8e-9eba-f17723a738c4.PNG)  
 Block Design:  
-![Block Design.pdf](https://github.com/tugcantopaloglu/8-bit-cpu/files/7142860/Block.Design.pdf)
+![block design](https://user-images.githubusercontent.com/53763911/132834772-8fb7ebd8-4111-40ff-a932-60d092ae140f.jpg)  
 
